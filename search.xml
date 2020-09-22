@@ -4,6 +4,12 @@
     <title>VS Code配置C#开发环境</title>
     <url>/2020/09/22/VS-Code%E9%85%8D%E7%BD%AEC-%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/</url>
     <content><![CDATA[]]></content>
+      <categories>
+        <category>开发工具</category>
+      </categories>
+      <tags>
+        <tag>VS Code，C#</tag>
+      </tags>
   </entry>
   <entry>
     <title>Unity学习之路：简介</title>
@@ -151,7 +157,8 @@ npm run serve                 //启动项目</code></pre><h4 id="项目架构"><
         <category>开发工具</category>
       </categories>
       <tags>
-        <tag>编辑器，Sublime</tag>
+        <tag>编辑器</tag>
+        <tag>Sublime</tag>
       </tags>
   </entry>
   <entry>
